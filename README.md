@@ -52,6 +52,10 @@ IN (Input): Read input data from a specified input device into a register.
 OUT (Output): Write the contents of a register to a specified output device.
 These are just a few examples of the basic assembly commands supported by the PIT CPU. Additional commands and instructions can be added to extend the functionality of the CPU as per specific requirements.
 
+##simple OPM diagram
+![image](https://github.com/manoel-serafim/PIT/assets/57204406/56d37aa6-40ef-45bd-87aa-5e9bb4d73e4c)
+
+
 ##License
 
 The PIT CPU project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code according to the terms of the license.
