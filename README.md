@@ -56,7 +56,7 @@ These are just a few examples of the basic assembly commands supported by the PI
 ![image](https://github.com/manoel-serafim/PIT/assets/57204406/56d37aa6-40ef-45bd-87aa-5e9bb4d73e4c)
 
 
-##License
+## License
 
 The PIT CPU project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code according to the terms of the license.
 
