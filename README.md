@@ -5,29 +5,6 @@ CPU desenvolvida em verilog e compilada para rodar em um FPGA altera.
 
 The PIT CPU features a customized datapath designed to provide modularity for the addition of components within the CPU. This modular approach allows for easy integration of new functionalities and components, enhancing the flexibility and scalability of the CPU design.
 
-## Getting Started
-
-To get started with the PIT CPU, follow these steps:
-
-1. Clone the repository:
-```
-git clone https://github.com/your-username/pit-cpu.git
-```
-
-2. Ensure you have the necessary software and tools installed, including the Verilog compiler and the Altera FPGA development environment.
-
-3. Connect the Altera FPGA to your computer and configure it to run the PIT CPU design.
-
-4. Compile the Verilog code using the appropriate compiler command. For example:
-```
-verilog -c pit-cpu.v
-```
-
-5. Once the compilation is successful, load the compiled code onto the FPGA.
-
-6. The PIT CPU is now ready to be used. Connect peripherals and execute instructions on the CPU as desired.
-
-
 ## Instructions
 The PIT CPU supports the following basic assembly commands and more:
 
